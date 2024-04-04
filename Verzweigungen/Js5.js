@@ -7,15 +7,15 @@ async function execute() {
 
     const letter = await prompt("Please enter a letter: ");
     switch (letter) {
-        case 'A'.toLowerCase():
-        case 'E'.toLowerCase():
-        case 'I'.toLowerCase():
-        case 'O'.toLowerCase():
-        case 'U'.toLowerCase():
+        case 'A'.toUpperCase():
+        case 'E'.toUpperCase():
+        case 'I'.toUpperCase():
+        case 'O'.toUpperCase():
+        case 'U'.toUpperCase():
             console.log("This a vowel letter");
             break;
         default:
-            console.log("This is a whether letter");
+            console.log("This is a consonant letter");
             break;
 
     }

@@ -18,8 +18,11 @@ async function execute() {
         console.log("Friday");
     } else if (nr === 6) {
         console.log("Saturday");
-    } else {
+    } else if (nr ===7) {
         console.log("Sunday");
+    }
+    else{
+        console.log("Please enter number between 1-7!")
     }
 
 }
