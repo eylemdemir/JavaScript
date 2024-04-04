@@ -17,8 +17,8 @@ async function execute() {
     };
     console.table(data);
 
-    const columnName = await prompt("Enter the name of the column (Name, LastName, or older): ");
-    const row = await prompt("Enter the row number: ");
+    const columnName = await prompt("Enter the name of the column (Name, LastName, or age): ");
+    const row = await prompt("Enter the row number (1-3): ");
     if (row >= 1 && row <= 3 && column.lastname || column.age || column.name) {
 
         const col = column[columnName.toLowerCase()];

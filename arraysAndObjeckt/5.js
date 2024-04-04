@@ -12,15 +12,14 @@ async function execute() {
         {name: "Fritz", lastname: "Mayr", age: 19}
     ];
     console.table(table);
-    const column = await prompt("Enter the name of the column (Name, LastName, or older): ");
+    const column = await prompt("Enter the name of the column (Name, LastName, or older):");
     const row = parseInt(await prompt("Enter the row number between (1-3): "));
+
 
 
     if (row >= 1 && row <= table.length) {
         const rowData = table[row - 1];
         const columnValue = rowData[column.toLowerCase()];
-
-
 
         console.log("Value at row", row, "and column", column, "is:", columnValue);
     } else {
