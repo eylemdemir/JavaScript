@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06e7aec1-a408-426c-b624-069017362d86" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+    &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eylemdemir&quot;
+    }
+    }</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="10a38e88-9c28-4b44-8e16-d4ae5bb07197" />
+        <option name="url" value="https://github.com/eylemdemir/JavaScript.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/game2.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+    &quot;associatedIndex&quot;: 0
+    }</component>
+  <component name="ProjectId" id="2dtz6RdOkWQryxT2uK5oCqK03SZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.1.js.executor": "Run",
+    "Node.js.2.js.executor": "Run",
+    "Node.js.3.js.executor": "Run",
+    "Node.js.4.js.executor": "Run",
+    "Node.js.5.js.executor": "Run",
+    "Node.js.6.js.executor": "Run",
+    "Node.js.7.js.executor": "Run",
+    "Node.js.Js1.js.executor": "Run",
+    "Node.js.Js2.js.executor": "Run",
+    "Node.js.Js3.js.executor": "Run",
+    "Node.js.Js4.js.executor": "Run",
+    "Node.js.Js5.js.executor": "Run",
+    "Node.js.Js6.js.executor": "Run",
+    "Node.js.Js8.js.executor": "Run",
+    "Node.js.exercises.js.executor": "Debug",
+    "Node.js.game.js.executor": "Run",
+    "Node.js.game1.js.executor": "Run",
+    "Node.js.game2.js.executor": "Run",
+    "Node.js.game3.js.executor": "Run",
+    "Node.js.js1.js.executor": "Run",
+    "Node.js.project.js.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "builtins",
+    "javascript.nodejs.core.library.configured.version": "20.11.0",
+    "javascript.nodejs.core.library.typings.version": "20.11.30",
+    "last_opened_file_path": "C:/Users/Codersbay/Desktop/play-ground",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "AngularJS"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Codersbay\WebstormProjects\JavaScript\maze" />
+      <recent name="C:\Users\Codersbay\WebstormProjects\JavaScript\Verzweigungen" />
+      <recent name="C:\Users\Codersbay\WebstormProjects\JavaScript\JavaScript" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06e7aec1-a408-426c-b624-069017362d86" name="Changes" comment="" />
+      <created>1710841986776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710841986776</updated>
+      <workItem from="1710841987957" duration="3392000" />
+      <workItem from="1710846129680" duration="2423000" />
+      <workItem from="1710850789828" duration="11406000" />
+      <workItem from="1710936837542" duration="647000" />
+      <workItem from="1710955760292" duration="465000" />
+      <workItem from="1711367097966" duration="611000" />
+      <workItem from="1711403841702" duration="1767000" />
+      <workItem from="1712040539002" duration="1437000" />
+      <workItem from="1712041989508" duration="15032000" />
+      <workItem from="1712093407529" duration="4119000" />
+      <workItem from="1712127166899" duration="9955000" />
+      <workItem from="1712138779099" duration="682000" />
+      <workItem from="1712139475270" duration="925000" />
+      <workItem from="1712140414993" duration="542000" />
+      <workItem from="1712140968031" duration="14267000" />
+      <workItem from="1712156332606" duration="2461000" />
+      <workItem from="1712158953849" duration="586000" />
+      <workItem from="1712159652333" duration="879000" />
+      <workItem from="1712160745528" duration="3533000" />
+      <workItem from="1712214955600" duration="1775000" />
+      <workItem from="1712216743221" duration="5652000" />
+      <workItem from="1712224273077" duration="2987000" />
+      <workItem from="1712233591623" duration="150000" />
+      <workItem from="1712558859148" duration="4058000" />
+      <workItem from="1712575301969" duration="2034000" />
+      <workItem from="1713150406919" duration="2221000" />
+      <workItem from="1713152656271" duration="2088000" />
+      <workItem from="1713178128290" duration="1998000" />
+      <workItem from="1713250570174" duration="26000" />
+      <workItem from="1713251281864" duration="3324000" />
+      <workItem from="1713258959224" duration="13347000" />
+      <workItem from="1713336411790" duration="109000" />
+      <workItem from="1713336559307" duration="75000" />
+      <workItem from="1713340272177" duration="3078000" />
+      <workItem from="1713769942045" duration="2304000" />
+      <workItem from="1714825787325" duration="648000" />
+      <workItem from="1714826525710" duration="4379000" />
+      <workItem from="1714998608491" duration="137000" />
+      <workItem from="1718696025286" duration="847000" />
+      <workItem from="1718728525165" duration="259000" />
+      <workItem from="1718793085035" duration="783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="498484a6-d6fe-4da4-a4a3-55022b620c3f" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="498484a6-d6fe-4da4-a4a3-55022b620c3f">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
